@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts and reference.
+Schell Scripts and reference and practical.
